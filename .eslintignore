@@ -1,0 +1,75 @@
+# 忽略 shell 脚本文件
+*.sh
+
+# 忽略 node_modules 目录
+node_modules
+
+# 忽略 Markdown 文件
+*.md
+
+# 忽略字体文件
+*.woff
+*.ttf
+
+# 忽略 Visual Studio Code 配置
+.vscode
+
+# 忽略 IntelliJ IDEA 配置
+.idea
+
+# 忽略分发目录
+dist
+
+# 忽略 public 目录
+/public
+
+# 忽略文档目录
+/docs
+
+# 忽略 Husky 配置
+.husky
+
+# 忽略二进制文件
+/bin
+
+# 忽略 ESLint 配置文件
+.eslintrc.js
+
+# 忽略 Prettier 配置文件
+prettier.config.js
+
+# 忽略 /src 下的模拟文件
+/src/mock/*
+
+# 忽略日志目录
+logs
+
+# 忽略日志文件
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# 忽略 macOS 的 DS_Store 文件
+.DS_Store
+
+# 忽略 dist-ssr 目录
+dist-ssr
+
+# 忽略本地文件
+*.local
+
+# 忽略 Cypress 视频和截图
+/cypress/videos/
+/cypress/screenshots/
+
+# 忽略 Visual Studio 特定文件
+.suo
+*.njsproj
+*.sln
+*.sw?
+
+# 忽略 TypeScript 声明文件
+components.d.ts
