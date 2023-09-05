@@ -45,8 +45,12 @@ const add = () => {
 	</p>
 </template>
 
-<style scoped>
+<style scoped lang="scss">
 .read-the-docs {
 	color: #888;
+
+	.box {
+		color: #888;
+	}
 }
 </style>
